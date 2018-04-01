@@ -9,8 +9,8 @@
 title: Michael Price
 email: michaelprise@gmail.com@gmail.com
 description: Fun fun things
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
+baseurl: "https://michaelprise.github.io" # the subpath of your site, e.g. /blog
+url: "https://michaelprise.github.io" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
